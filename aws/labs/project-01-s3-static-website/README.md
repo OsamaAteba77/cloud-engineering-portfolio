@@ -25,15 +25,19 @@ The website is deployed using Amazon S3 Static Website Hosting and is publicly a
 - index.html
 - style.css
 
-## Screenshots
+ ## Screenshots
 
-### Website
- 
+### Live Website
+
+![Live website](screenshots/website.png)
 
 ### S3 Bucket
- 
+
+![S3 bucket](screenshots/s3-bucket.png)
 
 ### Static Website Hosting
+
+![Static website hosting](screenshots/static-hosting.png)
  
 
 ## What I Learned

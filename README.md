@@ -8,4 +8,4 @@ Hands-on labs and projects to build job-ready cloud engineering skills.
 - Lab 02: Networking Services Practice (VPC, SG, EIP, ELB)
 
 ## AWS
-- Future labs and projects will be added here.
+- Project 01 exists.

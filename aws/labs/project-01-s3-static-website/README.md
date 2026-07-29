@@ -28,13 +28,13 @@ The website is deployed using Amazon S3 Static Website Hosting and is publicly a
 ## Screenshots
 
 ### Website
-(Add website.png)
+ 
 
 ### S3 Bucket
-(Add s3-bucket.png)
+ 
 
 ### Static Website Hosting
-(Add static-hosting.png)
+ 
 
 ## What I Learned
 

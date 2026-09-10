@@ -33,6 +33,25 @@ Deployed a static portfolio website using Amazon S3.
 
  ➡️ [Project documentation](aws/labs/project-01-s3-static-website/)
 
+#### Project 02 — EC2 Linux Web Server with Nginx
+
+Deployed a custom static website on an Amazon EC2 instance running Amazon Linux 2023 and Nginx.
+
+**Hands-on experience:**
+- Launching and configuring an EC2 instance
+- Connecting securely using SSH and a `.pem` key
+- Using basic Linux commands
+- Installing packages with `dnf`
+- Managing Nginx with `systemctl`
+- Configuring Security Group rules
+- Restricting SSH access to my IP
+- Allowing public HTTP traffic
+- Hosting and testing a custom webpage
+
+➡️ [Project documentation](aws/labs/project-02-ec2-nginx-web-server/)
+
+
+
 ---
 
 ## ☁️ Huawei Cloud
